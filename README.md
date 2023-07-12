@@ -1,8 +1,8 @@
 # Chess Engine
-Programmed in Python using the Pygame Library.
-SDD Major Project
-Written by Sebastian Zanardo
-
+Programmed in Python using the Pygame Library.  
+SDD Major Project  
+Written by Sebastian Zanardo  
+  
 CONTROLS:  
 [ MOUSE ] select squares and move pieces on the board  
 [ ARROWKEYS ] traverse previous moves in a game  
