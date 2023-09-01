@@ -1,6 +1,6 @@
 # Chess Engine
 Programmed in Python using the Pygame Library.  
-SDD Major Project  
+Software Design Development Year 12 Major Project  
 Written by Sebastian Zanardo  
   
 CONTROLS:  
