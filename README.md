@@ -11,3 +11,4 @@ CONTROLS:
 [ ESC ] close software  
   
 To launch software run the main.py file.  
+requires Pygame library and Python 3.11
