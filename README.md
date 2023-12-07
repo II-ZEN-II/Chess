@@ -12,3 +12,5 @@ Written by Sebastian Zanardo
   
 To launch software run the `main.py` file.  
 Requires Pygame library and Python 3.11+
+
+![Screenshot 2023-12-07 at 11 00 46 pm](https://github.com/II-ZEN-II/Chess/assets/97170564/12c93ec0-207d-44d4-b4e0-efbdfd160f56)
