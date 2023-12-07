@@ -9,8 +9,10 @@ Written by Sebastian Zanardo
 **[ SPACE ]** plays a random legal move for the current player  
 **[ S ]** save the game to a text file that is loaded into the board upon running the software  
 **[ ESC ]** close software  
-  
-To launch software run the `main.py` file.  
-Requires Pygame library and Python 3.11+
 
+### REQUIREMENTS:
+Python 3.11+  
+Pygame 2.3.1+
+
+To launch software run the `main.py` file.
 ![Screenshot 2023-12-07 at 11 00 46 pm](https://github.com/II-ZEN-II/Chess/assets/97170564/12c93ec0-207d-44d4-b4e0-efbdfd160f56)
